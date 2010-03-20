@@ -12,6 +12,7 @@ setup(
     url = "http://wiki.github.com/pteichman/kibot-echo/",
     description = "An example Kibot module.",
     packages = find_packages(),
+    install_requires = ["kibot>=0.0.13"],
     namespace_packages = ["kibot", "kibot.modules"],
     classifiers = [
         "Development Status :: 5 - Production/Stable",
