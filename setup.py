@@ -18,7 +18,7 @@ setup(
         "Development Status :: 5 - Production/Stable",
         "Environment :: Plugins",
         "Intended Audience :: End Users/Desktop",
-        "License :: OSI Approved :: MIT License",
+        "License :: Public Domain",
         "Programming Language :: Python",
         "Topic :: Communications :: Chat :: Internet Relay Chat"
     ],
